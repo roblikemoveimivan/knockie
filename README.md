@@ -1,4 +1,4 @@
-<img src="https://roblike.neocities.org/archive/archivecontent/kge.png" alt="KGE logo width="300" height="200">
+[KGE logo](https://roblike.neocities.org/archive/archivecontent/kge.png)
 
 # The Repository for Kn0ckie and KGE.
 This is a page, that is used for downloading Kn0ckie.
