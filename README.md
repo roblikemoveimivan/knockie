@@ -1,4 +1,4 @@
-[<img src="https://roblike.neocities.org/archive/archivecontent/kge.png" width="30" />](./link/to/sql/file)
+[<img src="https://roblike.neocities.org/archive/archivecontent/kge.png" width="70" />](./link/to/sql/file)
 
 
 # The Repository for Kn0ckie and KGE.
